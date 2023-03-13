@@ -8,7 +8,6 @@
           <router-link to="/login" class="nav-link">Login</router-link>
         </div>
         <div class="navbar-nav ms-auto" v-show="loggedIn">
-          <router-link to="/" class="nav-link">Home</router-link>
           <a href="/register" class="nav-link" @click="logout">Logout</a>
         </div>
       </div>          
