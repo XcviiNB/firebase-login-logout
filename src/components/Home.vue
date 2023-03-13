@@ -12,7 +12,7 @@
     .center{
         position: relative;
         top: 50px;
-        width: 100px;
-        left: 25%
+        width: 900px;
+        left: 22%
     }
 </style>

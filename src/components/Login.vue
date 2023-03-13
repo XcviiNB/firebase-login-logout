@@ -27,7 +27,7 @@
                         <router-link to="/register">Don't have an account?</router-link>
                     </div>
                     <div class="d-flex float-end">
-                        <router-link to="/" class="btn btn-primary" @click="login">Login</router-link>
+                        <button class="btn btn-primary" @click="login">Login</button>
                     </div>
                 </div>
             </div>
